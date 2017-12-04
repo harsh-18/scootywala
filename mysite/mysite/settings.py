@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'home_page',
     'login_page',
     'marketing_stats',
-    'payment'
+    'payment',
+    'booking'
 
 ]
 
