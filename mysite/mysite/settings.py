@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'login_page',
     'marketing_stats',
     'payment',
-    'booking'
+    'booking',
+    'FAQs'
 
 ]
 
