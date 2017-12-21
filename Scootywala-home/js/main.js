@@ -18,4 +18,4 @@
 
 
 
-//authentication modal
+//login modal
