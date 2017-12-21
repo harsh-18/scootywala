@@ -1,0 +1,23 @@
+.booking-box{
+  background : rgba(0,0,0,0.5);
+  background-size: left;
+  position: left;
+  width: 400px;
+  height: 420px;
+  box-sizing: border-box;
+  z-index: -1;
+  border-radius: 5%;
+}
+
+#head-color{
+  color: #fc6202;
+}
+
+
+ .booking-title{
+   /* position: center; */
+   margin: 0px;
+   padding: 0 0 20px;
+   top: auto;
+
+ }
