@@ -9,11 +9,13 @@
   };
   firebase.initializeApp(config);
 
-  // modal switching
-  $('#myModal').on('shown.bs.modal', function() {
-    $('#myInput').focus()
-  })
+  //take the bookings
 
 
 
-  //take the booking
+
+
+
+
+
+//authentication modal
